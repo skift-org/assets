@@ -1,5 +1,5 @@
 {
     "$schema": "https://schemas.cute.engineering/stable/cutekit.manifest.component.v1",
-    "id": "fonts-excalibur",
+    "id": "fonts.noto-sans",
     "type": "lib"
 }
