@@ -1,6 +1,6 @@
 {
     "$schema": "https://schemas.cute.engineering/stable/cutekit.manifest.project.v2",
-    "id": "skift-org/assets",
+    "id": "skift/assets",
     "type": "project",
     "version": "v0.2.0"
 }
